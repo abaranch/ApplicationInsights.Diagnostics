@@ -7,3 +7,7 @@
 DiagnosticObservable
 	.Create()
 	.Select(i => i.FormattedMessage)
+
+DiagnosticObservable
+	.Create()
+	.Select(i => i.FormattedMessage)
